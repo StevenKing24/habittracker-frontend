@@ -99,13 +99,6 @@ Este proyecto fue desarrollado con el propósito de fortalecer habilidades en de
 
 ---
 
-## 📸 Capturas
-
-Agregar screenshots aquí:
-
-```md
-![Dashboard](./screenshots/dashboard.png)
-```
 
 ---
 
